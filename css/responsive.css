@@ -1,0 +1,121 @@
+/* for mobile */
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+  .welcome-text h1 {
+    font-size: 2.5rem;
+  }
+  .welcome-text p {
+    font-size: 1.5rem;
+  }
+  .welcome-area .col-12 {
+    margin-bottom: 50px;
+  }
+  .welcome-image {
+    margin: 0;
+  }
+  .bg-shape {
+    width: 50%;
+    height: 60%;
+    background-color: #8731e8;
+    position: absolute;
+    top: 89%;
+    right: 0;
+    z-index: -1;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+  }
+  .feature-title h2 {
+    font-size: 2.5rem;
+  }
+  .feature-title p {
+    font-size: 1.5rem;
+  }
+  .discover-area .row {
+    flex-direction: column-reverse;
+  }
+  .discover-image {
+    margin-left: 71px;
+    margin-bottom: 50px;
+    margin-top: 80px;
+  }
+  .discover-text h2 {
+    font-size: 2.5rem;
+  }
+  .discover-text .content p {
+    font-size: 1.5rem;
+  }
+  .discover-text .icon span {
+    font-size: 25px;
+  }
+  .service-text h2 {
+    font-size: 2.5rem;
+  }
+  .service-text .d-flex {
+    align-items: start;
+  }
+  .service-text .content p {
+    font-size: 1.3rem;
+  }
+  .service-image img {
+    margin-left: 42px;
+  }
+  .work-title h2 {
+    font-size: 2.5rem;
+  }
+  .work-title p {
+    font-size: 1rem;
+  }
+  .pricing-title h2 {
+    font-size: 2.5rem;
+  }
+  .pricing-title p {
+    font-size: 1.3rem;
+  }
+  .price-box {
+    width: 100%;
+  }
+  .price-box-1 {
+    margin: 0;
+  }
+  .pricing .col-12 {
+    padding: 20px;
+  }
+  .faq-title h2 {
+    font-size: 2.5rem;
+  }
+  .faq-title p {
+    font-size: 1.2rem;
+  }
+  .accordion-container {
+    width: 100%;
+  }
+  .download-title h2 {
+    font-size: 2.5rem;
+  }
+  .download-title p {
+    font-size: 1rem;
+  }
+  .download-title .btn-group img {
+    width: 160px;
+  }
+  .subscribe-title h2 {
+    font-size: 2.5rem;
+  }
+  .subscribe-form .form-group input {
+    width: 100%;
+  }
+  .subscribe-form {
+    width: 92%;
+  }
+  .contact-title p {
+    font-size: 1rem;
+  }
+  .copyright {
+    text-align: center;
+  }
+  .footer-2 {
+    margin-top: 20px;
+  }
+  .copy-right {
+    margin-left: 48px;
+  }
+}
